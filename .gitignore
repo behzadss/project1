@@ -1,2 +1,4 @@
 nodemodules/
 *.txt
+!21.txt
+js/
